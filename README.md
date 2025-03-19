@@ -26,15 +26,15 @@ The **Library Management System** is a simple C project designed to manage books
    ./library
    
 ## 📁 Project Structure
-**Library-Management-System/**
-**│-- library_management.c**
-**│-- README.md**
+**Library-Management-System/** 
+**│-- library_management.c** 
+**│-- README.md** 
 
 ## 📌 Future Improvements
-🔹 GUI-based interface
-🔹 Database integration (MySQL)
-🔹 Multi-user authentication
+🔹 GUI-based interface 
+🔹 Database integration (MySQL) 
+🔹 Multi-user authentication 
 
 ## 📝 Contributors
-Tejaswini Mohapatra
-Md Sharique Raza
+Tejaswini Mohapatra 
+Md Sharique Raza 
