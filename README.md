@@ -41,13 +41,14 @@ gcc library_management.c -o library
 
 ---
  
-## 📌 Future Improvements
--🔹 GUI-based interface 
--🔹 Database integration (MySQL) 
--🔹 Multi-user authentication 
+## 📌 Future Improvements  
+- 🔹 GUI-based interface  
+- 🔹 Database integration (MySQL)  
+- 🔹 Multi-user authentication  
 
 ---
 
-## 📝 Contributors
--Tejaswini Mohapatra 
--Md Sharique Raza 
+## 📄 Contributors  
+- Tejaswini Mohapatra  
+- Md Sharique Raza  
+
